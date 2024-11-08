@@ -13,7 +13,7 @@ The main reason for a Python port is that the original repository is an OSX only
 
 ## Prerequisites
 - Python 3 (tested on version 3.12.7).
-- NumPy (tested on version (tested on version 2.1.3).
+- NumPy (tested on version 2.1.3).
 - PySoundFile (tested on version 0.12.1).
 
 All dependencies are listed in the `requirements.txt` file. 
